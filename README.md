@@ -45,7 +45,7 @@
 > 시기
 - 2023.03 - 2023.07
 
-[프로젝트 상세 설명] ()
+[프로젝트 상세 설명](https://github.com/eunnnholee/childcare-policy-KoBERTopic-SNA)
 
 <br/>
 <br/>
@@ -65,7 +65,7 @@
 <br/>
 <br/>
 
-[프로젝트 상세 설명] ()
+[프로젝트 상세 설명](https://github.com/eunnnholee/vision-aid-image-captioning)
 
 ## **3. 🎉 지역 균형 발전을 위한 지역축제 만족도 개선 연구 : 토픽 모델링과 QFD를 중심으로**
 > 요약
@@ -78,7 +78,7 @@
 > 시기
 - 2023.10 - 2023.11
 
-[프로젝트 상세 설명] ()
+[프로젝트 상세 설명](https://github.com/eunnnholee/Regional-Festival-Satisfaction-Improvement)
 
 <br/>
 <br/>
@@ -94,4 +94,4 @@
 > 시기
 - 2024.02 - 2024.02
   
-[프로젝트 상세 설명] ()
+[프로젝트 상세 설명](https://github.com/eunnnholee/Regional-Festival-Satisfaction-Improvement)
