@@ -88,4 +88,4 @@
 > 시기
 - 2024.02 - 2024.02
   
-[프로젝트 상세 설명](https://github.com/eunnnholee/Regional-Festival-Satisfaction-Improvement)
+[프로젝트 상세 설명](https://github.com/eunnnholee/LGAimers-hackathon)
