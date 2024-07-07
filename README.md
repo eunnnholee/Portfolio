@@ -55,7 +55,6 @@
   
 > 시기
 - 2023.10 - 2023.11
-- 
 [프로젝트 상세 설명](https://github.com/eunnnholee/vision-aid-image-captioning)
 
 <br/>
