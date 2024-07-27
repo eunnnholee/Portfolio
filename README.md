@@ -104,5 +104,5 @@
 > 시기
 - 2024.05 - 2024.06
   
-[프로젝트 상세 설명](https://github.com/eunnnholee/LGAimers-hackathon)
+[프로젝트 상세 설명](https://github.com/eunnnholee/musinsa-analysis-solutions)
 
