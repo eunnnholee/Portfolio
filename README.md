@@ -122,5 +122,5 @@
 > 시기
 - 2023.03 - 2024.03
   
-[프로젝트 상세 설명](https://github.com/eunnnholee/musinsa-analysis-solutions)
+[프로젝트 상세 설명](https://github.com/eunnnholee/Youth-Welfare-Data-Analysis)
 
