@@ -56,7 +56,7 @@
 - 교내 우수작품 선정
   
 > 시기
-- 2023.03 - 2023.07
+- 2023.03 - 2023.06
 
 [프로젝트 상세 설명](https://github.com/eunnnholee/childcare-policy-KoBERTopic-SNA)
 
