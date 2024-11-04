@@ -123,6 +123,6 @@
 - 데이터 분석을 통한 아이디이 제안
   
 > 시기
-- 2023.03 - 2024.03
+- 2023.03 - 2023.05
   
 [프로젝트 상세 설명](https://github.com/eunnnholee/Youth-Welfare-Data-Analysis)
