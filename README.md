@@ -3,6 +3,8 @@
 >> 꿈 보다는 야망이라는 단어를 더 선호하는 지원자
 <br/>
 
+[포트폴리오_pdf](https://github.com/eunnnholee/childcare-policy-KoBERTopic-SNA)
+
 # 🔎 Profile
 
 > 학력
