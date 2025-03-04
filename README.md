@@ -23,8 +23,9 @@
 <br/>
 
 > 교육
-  - LGAimers 4기 수료
-  - LGAimers 5기 수료
+  - LGAimers 4기 수료 (800팀 중 78위, 상위 9%)
+  - LGAimers 5기 수료 (800팀 중 36위, 상위 4%)
+  - LGAimers 6기 수료 (800팀 중 12위, 상위 1%)
 
 <br/>
 
